@@ -2,3 +2,10 @@ body {
     background-color: aquamarine;
     color: #1010cc;
 }
+
+h1 {
+    border: 2px dotted black;
+    font-size: 36px;
+    text-align: center;
+}
+

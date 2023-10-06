@@ -8,5 +8,6 @@ Skills to be demonstrated:
 - basic html boilerplate
 - headings, paragraphs, lists, and other html elements
 - adding images
+- styling with CSS 
 - linking files and managing directories
 - and more

@@ -9,4 +9,5 @@ Skills to be demonstrated:
 - headings, paragraphs, lists, and other html elements
 - adding images
 - linking files and managing directories
+- javascript elements
 - and more
